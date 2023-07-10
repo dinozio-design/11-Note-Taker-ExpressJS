@@ -43,12 +43,11 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## Installation
-<!-- You must ensure to have the Node modules installed, along with npm. To run the app invoice the JavaScrip index file using node. additionally you must install inquirer and jest packages/ -->
-TBD
+There is no installation needed. Simply head on over to the deployed app on heroku using the link below.
+
 
 ## Usage
-<!-- This app is best used for the highperforming developper who needs to make a quick TLA logo on the fly. Just run the app and start typing and interactin in the terminal, et voila! -->
-TBD
+This app is ment for your to take notes on the fly, and once you are done with your task, you can simply and quickly delete it.
 
 ## License
 This app is covered under MIT license. For details and limitations of this license please visit:
@@ -69,7 +68,7 @@ If you have any questions, you can email them to me.
 
 ### Deployed Links
 
-1. You can find the link to the deployed application **here:** <br>
+1. You can find the link to the deployed application **here:** <br> [Note Taker - Heroku link](https://serene-wave-69834-5e095d541a17.herokuapp.com/)
 
 2. You can find the URL of my GitHub repository that contains this code **here:** <br>[GitHub Repo - link](https://github.com/dinozio-design/11-Note-Taker-ExpressJS)
 
