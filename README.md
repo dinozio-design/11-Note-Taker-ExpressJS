@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightblue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-In this week's Challenge I created a ...
+In this week's Challenge I created a web app to make it much easier to take notes on the fly.
 
 ## Table of Contents
 - [User-Story](#user-story)
@@ -44,6 +44,10 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Installation
 There is no installation needed. Simply head on over to the deployed app on heroku using the link below.
+The app looks and feels like this:
+
+![Mock Up of the way main page and note pages look”](./mock-up/MyApp01.PNG)
+![After clicking save, new note is added on the left”](./mock-up/MyApp02.PNG)
 
 
 ## Usage
